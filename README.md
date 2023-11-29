@@ -61,6 +61,6 @@ My passion is to build beautiful, efficient and user-friendly applications. I am
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=yungsavkas"/>
-</div>
+</div>x
 
 
